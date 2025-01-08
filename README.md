@@ -1,4 +1,8 @@
-# Yürüme-Engelli-Bireyler-İçin-Sonar-Sistemi
+#
+
+https://github.com/user-attachments/assets/f965f6a5-ee71-48b7-bc3e-8847adcb558a
+
+Yürüme-Engelli-Bireyler-İçin-Sonar-Sistemi
 # Servo Motor ve Ultrasonik Sensör ile Mesafe Ölçümü
 
 Bu proje, bir *Servo motor* ve *Ultrasonik mesafe sensörü (HC-SR04)* kullanarak, belirli bir aralıkta servo motoru döndürür ve her açı için mesafe ölçümü yaparak seri port üzerinden çıktıyı gönderir. Bu proje, robotik projelerde mesafe ölçümü yapmak ve hareketli nesneleri tespit etmek için temel bir uygulama sunmaktadır.
